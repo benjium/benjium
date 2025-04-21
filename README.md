@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benjium
-- 👀 I’m interested in ...data science 
+- 👀 I’m interested in ...data science, data analytics 
 - 🌱 I’m currently learning ...deep ML
 - 💞️ I’m looking to collaborate on ...on research 
 - 📫 How to reach me ...oniyidebenjamin@gmail.com
