@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...data science, data analytics 
 - 🌱 I’m currently learning ...deep ML
 - 💞️ I’m looking to collaborate on ...on research 
-- 📫 How to reach me ...oniyidebenjamin@gmail.com
+- 📫 How to reach me ...oniyidebenjamin9@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm an enthusiastic, team player goal-oriented,and good statistical thinker 
 
